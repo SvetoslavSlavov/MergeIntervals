@@ -9,10 +9,10 @@ the new collection of intervals in the following format [x1, x2], [x3, x4], .., 
 # Example
 Input
 
-[1,3], [2,6], [8,10], [15,18]
+[1,3], [2,6], [8,10], [15,18] </br>
 [1, 3], [5,7], [8,10]	
 
 Output
 	
-[1,6], [8,10], [15,18]
+[1,6], [8,10], [15,18] </br>
 	 -1
