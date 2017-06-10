@@ -1,0 +1,1 @@
+D:\MergeIntervals\MergeIntervals\bin\Debug\MergeIntervals.exe.config
